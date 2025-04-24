@@ -37,8 +37,8 @@ This repo helps me:
 
 ### 🔗 Connect with me
 
-📧 Email: [anant.abes459@gmail.com]  
-💼 LinkedIn: [www.linkedin.com/in/anant680]  
+📧 Email: anant.abes459@gmail.com 
+💼 LinkedIn: www.linkedin.com/in/anant680
 🐙 GitHub: [https://github.com/Anant110](https://github.com/Anant110)
 
 ---
